@@ -1,4 +1,5 @@
 University Application Manager
+
 The University Application Manager is a simple C++ console application that allows you to manage student applications. It's built using object-oriented programming principles and provides a menu-driven interface for interaction.
 
 Features
